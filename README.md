@@ -29,8 +29,9 @@ Whats this?
 - [ ] Replace Felinids to be human genemods, port Tarajans from Paradise
 
 ### Skyrat
-- [ ] Finish adding maints to BlueShift
+- [ ] Finish adding maints Rooms to BlueShift
 - [ ] Go through their modular files and repath certain area turfs to what I set on /TG/
+- [ ] Update BlueShift to use the `access_helpers` that /TG/ implament, also scrub the doors a bit
 
 ### /TG/station
 - [ ] Update & Fix mapping tools
