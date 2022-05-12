@@ -16,9 +16,10 @@ Keep your head held up high, you can accomplish anything.
 
 ## JOLLY'S INFAMOUS LIST OF STUFF TO DO BUT NOT TO DO
 Whats this?
-
+<details>
+  <summary>Check List Ahead</summary>
 ### JollyStation
-- [ ] Start XenoBotany job expansion
+- [X] Start XenoBotany job expansion
 - [ ] Finish XenoBotany job expansion
 - [ ] Start Ordnance Job Expansion
 - [ ] Finish Ordnance Job Expansion
@@ -33,3 +34,5 @@ Whats this?
 ### /TG/station
 - [ ] Update & Fix mapping tools
 - [ ] Make mapping tools under TGUI
+</details>
+  
