@@ -1,4 +1,4 @@
-## Hi. Hello. Welcome. Something.
+# Hi. Hello. Welcome. Something.
 
 He/Him
 
@@ -14,7 +14,22 @@ If you need to contact me, your best methods are:
 
 Keep your head held up high, you can accomplish anything.
 
-<!---
-Jolly-66/Jolly-66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## JOLLY'S INFAMOUS LIST OF STUFF TO DO BUT NOT TO DO
+Whats this?
+
+### JollyStation
+- [ ] Start XenoBotany job expansion
+- [ ] Finish XenoBotany job expansion
+- [ ] Start Ordnance Job Expansion
+- [ ] Finish Ordnance Job Expansion
+- [ ] General clean up
+- [ ] Port IPCs
+- [ ] Replace Felinids to be human genemods, port Tarajans from Paradise
+
+### Skyrat
+- [ ] Finish adding maints to BlueShift
+- [ ] Go through their modular files and repath certain area turfs to what I set on /TG/
+
+### /TG/station
+- [ ] Update & Fix mapping tools
+- [ ] Make mapping tools under TGUI
