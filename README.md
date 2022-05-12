@@ -18,6 +18,7 @@ Keep your head held up high, you can accomplish anything.
 Whats this?
 <details>
   <summary>Check List Ahead</summary>
+
 ### JollyStation
 - [X] Start XenoBotany job expansion
 - [ ] Finish XenoBotany job expansion
