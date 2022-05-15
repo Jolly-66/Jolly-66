@@ -32,6 +32,7 @@ Whats this?
 - [X] Finish adding maints Rooms to BlueShift
 - [ ] Go through their modular files and repath certain area turfs to what I set on /TG/
 - [ ] Update BlueShift to use the `access_helpers` that /TG/ implament, also scrub the doors a bit
+- [ ] Add mapping icons for some of their shit
 
 ### /TG/station
 - [ ] Update & Fix mapping tools
