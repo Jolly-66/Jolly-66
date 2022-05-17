@@ -37,5 +37,6 @@ Whats this?
 ### /TG/station
 - [ ] Update & Fix mapping tools
 - [ ] Make mapping tools under TGUI
+- [ ] Finish excising areas and properly organize them
 </details>
   
