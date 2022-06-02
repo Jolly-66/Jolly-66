@@ -30,7 +30,7 @@ Whats this?
 
 ### Skyrat
 - [X] Finish adding maints Rooms to BlueShift
-- [ ] Go through their modular files and repath certain area turfs to what I set on /TG/
+- [X] Go through their modular files and repath certain area turfs to what I set on /TG/
 - [ ] Update BlueShift to use the `access_helpers` that /TG/ implament, also scrub the doors a bit
 - [ ] Add mapping icons for some of their shit
 
@@ -38,5 +38,7 @@ Whats this?
 - [ ] Update & Fix mapping tools
 - [ ] Make mapping tools under TGUI
 - [X] Finish excising areas and properly organize them
+- [ ] Update KS13 (TheDerelict)
+- [ ] Give KS13 areas icons
 </details>
   
