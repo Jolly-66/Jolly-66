@@ -14,6 +14,10 @@ If you need to contact me, your best methods are:
 
 Keep your head held up high, you can accomplish anything.
 
+## Times I fucked up /TG/ unintentionally
+- Broke ruins spawning 
+- Broke uniforms 
+
 ## JOLLY'S INFAMOUS LIST OF STUFF TO DO BUT NOT TO DO
 Whats this?
 <details>
