@@ -30,19 +30,19 @@ Whats this?
 - [ ] Finish Ordnance Job Expansion
 - [ ] General clean up
 - [ ] Port IPCs
-- [ ] Replace Felinids to be human genemods, port Tarajans from Paradise
+- [X] Replace Felinids to be human genemods, port Tarajans from Paradise
 
 ### Skyrat
 - [X] Finish adding maints Rooms to BlueShift
 - [X] Go through their modular files and repath certain area turfs to what I set on /TG/
 - [X] Update BlueShift to use the `access_helpers` that /TG/ implament, also scrub the doors a bit
-- [ ] Add mapping icons for some of their shit
+- [X] Add mapping icons for some of their shit
 
 ### /TG/station
 - [ ] Update & Fix mapping tools
 - [ ] Make mapping tools under TGUI
 - [X] Finish excising areas and properly organize them
-- [ ] Update KS13 (TheDerelict)
-- [ ] Give KS13 areas icons
+- [X] Update KS13 (TheDerelict)
+- [X] Give KS13 areas icons
 </details>
   
