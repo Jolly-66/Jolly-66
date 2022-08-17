@@ -23,7 +23,7 @@ Whats this?
 <details>
   <summary>Check List Ahead</summary>
 
-### JollyStation
+### TaleStation
 - [X] Start XenoBotany job expansion
 - [ ] Finish XenoBotany job expansion
 - [ ] Start Ordnance Job Expansion
