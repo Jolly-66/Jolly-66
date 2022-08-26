@@ -4,7 +4,7 @@ He/Him
 
 I'm Jolly, an inept SS13 coder and somewhat existing mapper.
 
-Currently, I help run JollyStation, a HRP-oriented RP server using /TG/ Station as our base.
+Currently, I help run TaleStation, a HRP-oriented RP server using /TG/ Station as our base.
 You can find me bouncing between there and /TG/ Station itself contributing.
 
 If you need to contact me, your best methods are:
