@@ -13,9 +13,8 @@ TaleStation Project Lead,
 Fulltime Bio student at college.
 
 If you need to contact me, your best methods are:
-- Discord: Jolly#0512
+- ~~Discord: Jolly#0512~~ Please contact me in either of the following Discords: /TG/station, Skyrat, Shiptest, Sector Echo 13, AculaStation, TaleStation, Mapper's Palace, Coderbus.
 - Twitter: Jolly66_
-- Email: jolly.66.dragon@gmail.com
 
 Keep your head held up high, you can accomplish anything.
 
@@ -29,4 +28,5 @@ I do NOT check my forks. If you have intentions to help me with something, pleas
 ## JOLLY'S INFAMOUS LIST OF STUFF TO DO BUT NOT TO DO
 Whats this?
 I used to have stuff here but I kept forgetting to update it. Lol. Look at the commit history if you care enough.
+Did you know I have a bad habit of forgetting what I'm supposed to do?
   
