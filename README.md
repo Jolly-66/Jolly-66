@@ -13,8 +13,32 @@ Skyrat Maptainer (currently inactive),
 Fulltime Bio student at college.
 
 If you need to contact me, your best methods are:
-- ~~Discord: Jolly#0512~~ Please contact me in either of the following Discords: /TG/station, Skyrat, Shiptest, Sector Echo 13, AculaStation, TaleStation, Mapper's Palace, Coderbus.
-- Twitter: Jolly66_
+
+<details>
+  <summary> Discord Stuff </summary>
+ 
+Either join my Discord [here](https://discord.gg/erQAwn3z9z), or contact me in one (or more) of the following SS13 Discords:
+
+Aculastation
+
+[Coderbus](https://discord.gg/Vh8TJp9)
+
+[Mapper's Palace](https://discord.gg/7NzVxTy)
+
+Sector Echo 13
+
+[Shiptest](https://shiptest.net/discord)
+
+[Skyrat](https://discord.gg/sdssvHujFx)
+
+[/TG/station](https://tgstation13.org/phpBB/viewforum.php?f=60)
+
+</details>
+
+<details>
+  <summary> Twitter </summary>
+  Jolly66_ (my DMs are usually open).
+ </details>
 
 Keep your head held up high, you can accomplish anything.
 
