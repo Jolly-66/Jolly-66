@@ -8,7 +8,7 @@ TaleStation Project Lead,
 
 /TG/station mapper,
 
-Skyrat Maptainer (currently inactive),
+Skyrat Maptainer,
 
 Fulltime Bio student at college.
 
