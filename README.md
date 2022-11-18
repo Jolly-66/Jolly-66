@@ -17,6 +17,7 @@ If you need to contact me, your best methods are:
 <details>
   <summary> Discord Stuff </summary>
  
+My friend requests are turned off, but you can find me at Jolly#0512. No, I'm not turning my friend requests back on.
 Either join my Discord [here](https://discord.gg/erQAwn3z9z), or contact me in one (or more) of the following SS13 Discords:
 
 Aculastation
