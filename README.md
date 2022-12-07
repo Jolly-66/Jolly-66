@@ -2,6 +2,8 @@
 
 He/Him
 
+I like to change my PFP a lot.
+
 I'm Jolly, an inept SS13 coder and somewhat existing mapper.
 
 TaleStation Project Lead,
