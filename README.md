@@ -6,11 +6,11 @@ I like to change my PFP a lot.
 
 I'm Jolly, an inept SS13 coder and somewhat existing mapper.
 
-TaleStation Project Lead,
+TaleStation Project Lead since 1/19/21; 1/20/22,
 
 /TG/station mapper,
 
-Skyrat Maptainer,
+Skyrat Maptainer since 6/23/22,
 
 Fulltime Bio student at college.
 
