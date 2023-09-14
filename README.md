@@ -12,7 +12,7 @@ TaleStation Project Lead since 1/19/21; 1/20/22,
 
 Skyrat Maptainer since 6/23/22,
 
-Fulltime Bio student at college.
+Bachlores of Science.
 
 If you need to contact me, your best methods are:
 
