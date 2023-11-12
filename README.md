@@ -14,6 +14,10 @@ I'll map for you if you want me to, just ask.
 
 I don't know what you expected by coming here.
 
+## I make YouTube content
+
+pls gib subscribe!!11!
+
 ## Some Notable Positions I Guess
 
 If you even want to call these notable.
