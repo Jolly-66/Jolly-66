@@ -26,7 +26,9 @@ TaleStation Project Lead since 1/19/21; 1/20/22,
 
 /TG/station mapper,
 
-Skyrat Maptainer 6/23/22 - 12/23/23.
+Skyrat Maptainer 6/23/22 - 12/23/23,
+
+Galaxia Maptainer since 12/23/23.
 
 ## How to Contact Me (don't)
 
